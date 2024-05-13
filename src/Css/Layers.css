@@ -1,0 +1,19 @@
+.layers-container{
+    position: absolute;
+    padding: 2px 20px;
+    display: flex;
+    bottom: 10px;
+    left:  10px;
+    align-items: center;
+    z-index: 1000;
+  background-color: rgba(16, 63, 92, 0.8);
+  border-radius: 15px;
+}
+.label{
+    font-family: cursive;
+    color: rgb(255, 254, 254);
+}
+.form-switch{
+    scale: 0.9;
+    margin:0px 5px;
+}
